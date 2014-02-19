@@ -1,0 +1,67 @@
+# ascii source: http://www.allwrong.com/asciiche.html
+set fish_greeting "
+ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+ttttttttttttttttttttttttttttttttttt;;,,:...     ..:,;;;;itttttttttttttttttttttttttttttttttttttt
+ttttttttttttttttttttttttttttt;;:.                        .,tttttttttttttttttttttttttttttttttttt
+tttttttttttttttttttttttttt;:                                .:,ittttttttttttttttttttttttttttttt
+ttttttttttttttttttttttt,:               .i:.,;                      .:;ittttttttttttttttttttttt
+ttttttttttttttttttttt;:                 .itti                            ,ttttttttttttttttttttt
+tttttttttttttttttttt:                  .,;tii;                             .,tttttttttttttttttt
+tttttttttttttttttt;.                     .t.                                 .;tttttttttttttttt
+ttttttttttttttttt;                                                             .itttttttttttttt
+ttttttttttttttttt                                                                ittttttttttttt
+tttttttttttttttt;                                                                .itttttttttttt
+tttttttttttttttt;              .,,;iiittttttttttiii;;,,:                           .itttttttttt
+ttttttttttttttt,           :;itttttttttttttttttttttttttttttti;,.                      itttttttt
+ttttttttttttttt.        :;ttttttttttttttttttttttttttttttttttttttt,:                    tttttttt
+ttttttttttttttt:       :tttttttttttttttttttttttttttttttttttttttttttt,                  tttttttt
+tttttttttttttttt      .;itttttttttttttttttttttttttttttttttttttttttttti                 :ttttttt
+ttttttttttttttttt       itttttttttttttttttttttttttttttttttttttt,,ttttt:                 itttttt
+ttttttttttttttttt.     ,ttttiitittittittttttttttttt;,:...        .,itt:                 itttttt
+tttttttttttttttti      iti:              ,tttttti,           .::    .;:                 itttttt
+ttttttttttttttti.      iti :;;;,          ,tttttt;           ...                        ttttttt
+ttttttttttttti:        tttit;:.. , .,,. .:;tttttt, .:..,.  .:                          :;tttttt
+ttttttttti;::          tttt.  :ti,,tti;itttttttti  .iti;;i:,:                         .ittttttt
+ttttttt;.             :tttt,,ii,;ttiiitttttttttt.   .;tttttii,;;;::                  .i;itttttt
+tt,:;:                ;ttttttttttttttttttttttttt: .:ittttttttttttttti:                .t;tttttt
+ttittti.              ;ttttttttttttttttttttttttti  ,ttttttttttttttttti                 .,,ttttt
+ttttt;t;              ;tttttttttttttttttttttttttt,..:itttttttttttti,:                     itttt
+ttttt;;i.             :ttttttttttttttttttttttttt;itt;;tttttttttti.                        ,tttt
+tttttt,                tttttttttttttttti   .:::       ;tttttttt:                          ,tttt
+ttttttt,               tttttttttttttttt;;iiti,,;i..    tttttt,.                           :tttt
+ttttttt:               ;ttttttttttttttttttttttttt. ,;;itttttt.                            :tttt
+ttttttt:                ttttttttttttttttt,.itttt,   :ttttttti                             .tttt
+ttttttt:                .itttttttttttttti:;ttttt;     .:,tttt;i,                           ;ttt
+ttttttt,                 .ittttttt;:;i:;;t;,::::::         :,,:                           ,ittt
+t;;ttt:  .               ,.tttttt, ,ii:;:   ..  ..                                        ;tttt
+tti;,:,;tti.             iitttttt .tt;:,itttttttttti;,,i,                                 ,tttt
+ttttttittttt;            ;;;tttti ,tttttttttttttti,:.. :.                                 itttt
+ttttti:tttt;,              :ittti,itttttt,                                               ittttt
+ttttti .;;;                  ,tttttttttttttiiiiii;;,...                                 ,tttttt
+tttttt;.                     ,ttiittttttttttttttttttttt,                             :i.,tttttt
+tttttttti,                   :tt, ;tttttttttttttttttttti                             ,i,ttttttt
+tttttt: .                          ,itttttttttttttiit, .                              ..;tttttt
+tttttti.                             :.,,t;t;iti:.:                                    .itttttt
+ttttttttttti:::                                                             ,         :tttttttt
+ttttttttttt::i .:                                                           ,;i,      ;tttttttt
+ttttttttttt;ii;it:                                                        .:: ,ii;;  ,ttttttttt
+tttttttttttttttttt                                                        .. ,ittt,;itttttttttt
+ttttttttttttti,;i;                                                        :;itttttttttttttttttt
+ttttttti,;itttttti                                                         ittttttttttttttttttt
+tttiiii;ittttttttti:      .   .                  ..      ;:  ,:            ittttttttttttttttttt
+titiiitttttttttttttti;: ,;, ,iiiii;;;;,,,.  ::;i;i, :   .it,,i:            ittttttttttttttttttt
+ttttttttttttttttttttttti;tt;..,tttt,:itttt;:;ttt; iii:   i,i:              .ttttttttttttttttttt
+ti,,.:itttttttttttttttttttttt: ;;iiti;.,itttttttt, ti; ::;;t.:i:.            ;ttttttttttttttttt
+ttttti. :itttttttttttttttttttti;,:.;iit;.:ittttttt;.ii.,;:,, iti.ti;,,:,,,;,,:.,itttttttttttttt
+ttttttt,.  :itttttttttttttttttttttii;  .... ,tttttttt:  ;t: :t; :i.,:tttttttttttttttttttttttttt
+tttttttttti,;iitttttttttttttttttttttt;:;,;;;. .;ttttti,:,ti it..iiti;,t;ittttttttttttt;tttttttt
+ttttttttttttt;tttttttttttti ,tttttttti     i,i;. ,ttt,tttt, ititi;iitttttttttttttttttt,,ttttttt
+ttttttttttttttttttttttttttt;;itttttttti,   ...:ii;ii:it.,. :itttttiittttttttttttttttttt;;i;tttt
+ttttttttttttttttttttttttttttt,ttttttttttt, :.,:ittttttt, ,.  ittttttttttttttttttttttttttttttttt
+tttttttttttttttttttti;itttttt:.ittttttttti;,;,;i;;;;:;tt.;;iitttttttttttttttttttttttttttttttttt
+ttttttttttttttttttttti;,ittttt  :ittttttttttiiiiitt;;,tt;;i ttttttttttttttttttttttttttttttttttt
+tttttttttttttttttttttttitttttti.  tttttttttttttttttti,ttt;t:ttttttttttttttttttttttttttttttttttt
+tttttttttttttttttttttttttttttttt;.:tttttttttttttttttt;ttt,t itttttttttttttttttttttttttttttttttt
+tttttttttttttttttttttttttttttttttit:,tttttttttttttttt.itt;i,itttttttttttttttttttttttttttttttttt
+tttttttttttttttttttttttttttttttttti  ,ttttttttttttttti;ttit;itttttttttttttttttttttttttttttttttt
+ttttttttttttttttttttttttttttttttttt:. ittttttttttttttt;tttti,tttttttttttttttttttttttttttttttttt"
